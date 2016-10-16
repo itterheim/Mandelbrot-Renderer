@@ -1,2 +1,1 @@
-# mandelbrot-renderer
-Mandelbrot fractal
+# Mandelbrot Fractal Renderer
