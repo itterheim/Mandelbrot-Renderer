@@ -1,2 +1,2 @@
 canvas { margin: 20px; box-shadow: 0 0 10px -2px #000; border: 1px solid #aaa;  }
-div#hover { display: none; position: absolute; background: #fff; opacity: 0.4; }
+div#hover { display: none; position: absolute; background: #fff; opacity: 0.4; cursror: pointer; }
